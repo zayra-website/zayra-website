@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Zayra's Royal Website</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Great+Vibes&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Zayra the Royal</h1>
+    <p>Welcome to my majestic realm</p>
+  </header>
+
+  <section class="about">
+    <h2>About Zayra</h2>
+    <p>Zayra is a queen of grace and strength. Her domain is filled with elegance, kindness, and vision.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Zayra’s Kingdom</p>
+  </footer>
+</body>
+</html>

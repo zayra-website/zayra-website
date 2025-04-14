@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  background: linear-gradient(to bottom right, #2e003e, #6a0572);
+  color: #fff8dc;
+  text-align: center;
+}
+
+header {
+  padding: 100px 20px;
+  background: url('https://images.unsplash.com/photo-1551024709-8f23befc6e10') center/cover no-repeat;
+  background-blend-mode: multiply;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+header h1 {
+  font-size: 3.5em;
+  font-family: 'Great Vibes', cursive;
+  color: gold;
+}
+
+header p {
+  font-size: 1.5em;
+}
+
+.about {
+  padding: 60px 20px;
+  background-color: #3e065f;
+  border-top: 4px solid gold;
+  border-bottom: 4px solid gold;
+}
+
+footer {
+  padding: 20px;
+  background-color: #1a001f;
+  font-size: 0.9em;
+  color: #d4af37;
+}
